@@ -1,2 +1,2 @@
 # bonbons
-visual and lexicon vommit
+visual and lexicon vomit
